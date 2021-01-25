@@ -5,7 +5,7 @@ const ImageLink = ({onInputChange, onSubmit}) => {
   return(
     <div>
       <p className='f3'>
-        Here you can detect faces on the photograph. It will not show their name though !!
+        Here you can detect faces on the photograph. Enter image URL for detection !!
       </p>
       <div className='center'>
         <div className='form center pa4 br3 shadow-5'>
